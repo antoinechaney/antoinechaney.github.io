@@ -17,6 +17,8 @@ However, these environmental gains came at significant social costs. The reform 
 
 ## **Work in Progress**
 
-* Fuel Switching, Infant Health, and the Hidden Costs of Electricity Subsidies: Evidence from Jordan
-* Impact of Energy Transition on the Labour Market: Evidence from the MENA Region
-* The Invisible Lifecycle: Unpaid Work, Demographic Aging and Female Labor Market Exclusion in the MENA Region - with Najat El Mekkaoui ; Sara Loukili
+**Fuel Switching, Infant Health, and the Hidden Costs of Electricity Subsidies: Evidence from Jordan**
+
+**Impact of Energy Transition on the Labour Market: Evidence from the MENA Region**
+
+**The Invisible Lifecycle: Unpaid Work, Demographic Aging and Female Labor Market Exclusion in the MENA Region** - with Najat El Mekkaoui ; Sara Loukili
