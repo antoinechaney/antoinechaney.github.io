@@ -23,7 +23,7 @@ repository               : "antoinechaney/antoinechaney.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profil.png"
   name             : "Antoine Chaney"
   pronouns         :  "he/him"  
   bio              : "PhD candidate in Development Economics"
