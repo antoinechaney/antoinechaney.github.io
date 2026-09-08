@@ -7,19 +7,17 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
-Current position
+**Current position**
 
 * PhD Candidate in Economics, Université Paris Dauphine – PSL, DIAL Lab. Supervisors: Najat El Mekkaoui, Kenneth Houngbedji.
 
-Education
+**Education**
 
 * MSc in Public Policies, Paris School of Economics, 2022.
 * Engineering Degree, ENSAE ParisTech, 2022.
 * Normalien·ne Diploma, École Normale Supérieure Paris-Saclay, 2024.
 
-Relevant professional experiences
+**Relevant professional experiences**
 
 * Research Assistant, IRD, 2023.
 * Economics Consultant, Morocco Employment Lab (J-PAL), Rabat, 2022.
