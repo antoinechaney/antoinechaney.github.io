@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in development economics at Dial (Développement, Institutions et Mondialisation) 
+I am a PhD student in development economics at Dial (Développement, Institutions et Mondialisation), a research unit of the LEDa.   
 
 I am jointly supervised by Najat El Mekkaoui and Kenneth Houngbedji.
 
