@@ -5,7 +5,6 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teaching experience
 
 * Lecturer & TA, Econometrics (L3), Université Paris Dauphine, 2026-27.
 * Lecturer & TA, Statistics (L3), Université Paris Dauphine, 2026-27.
