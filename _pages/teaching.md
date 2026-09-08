@@ -5,6 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
+<hr style="border: none; height: 1px; background-color: #ddd; margin: 1.5em 0;">
 
 * Lecturer & TA, Econometrics (L3), Université Paris Dauphine, 2026-27.
 * Lecturer & TA, Statistics (L3), Université Paris Dauphine, 2026-27.
