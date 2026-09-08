@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+<hr style="border: none; height: 1px; background-color: #ddd; margin: 1.5em 0;">
+
 ## **Working Papers**
 
 **Fuel Subsidies and Carbon Emissions in Developing Countries: Evidence from Jordan**
